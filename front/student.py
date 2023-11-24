@@ -130,7 +130,7 @@ class cstudent:
         qual_ex_label=Label(lframe,text="Qualifying Exam",font=("times new roman",12,"bold"),padx=2,pady=6)
         qual_ex_label.grid(row=11,column=0,sticky=W)
         self.combo_qe=ttk.Combobox(lframe,textvariable=self.qevv,font=("times new roman",12,"bold"),width=18,state="readonly")
-        self.combo_qe["value"]=("PESSAT","KCET","JEE")
+        self.combo_qe["value"]=("JESSAT","CET","JEE")
         self.combo_qe.current(0)
         self.combo_qe.grid(row=11,column=1)
         print(self.twev)
