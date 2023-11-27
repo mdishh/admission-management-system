@@ -8,3 +8,8 @@ time-consuming procedures related to student admissions, thus allowing
 educational institutions to focus more on delivering quality education 
 and less on administrative intricacies. 
 tkinter is used to design the frontend, mySQL database is used in the backend
+
+
+Steps to run:
+1)Open mySQL workbench and connect to the database
+2)Run home.py file in the terminal
