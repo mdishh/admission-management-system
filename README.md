@@ -10,6 +10,9 @@ and less on administrative intricacies.
 tkinter is used to design the frontend, mySQL database is used in the backend
 
 
-Steps to run:
+#Steps to run the project:
+
 1)Open mySQL workbench and connect to the database
-2)Run home.py file in the terminal
+
+
+2)Run the home.py file in the terminal
